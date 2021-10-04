@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpiceyMex
 - 👀 I’m interested in ... JavaScript, HTML, CSS, Python
-- 🌱 I’m currently learning ... C++, HTML5
+- 🌱 I’m currently learning ... JavaScript and Python for school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
